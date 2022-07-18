@@ -15,6 +15,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Weather.API\Weather.API.csproj" />
     <ProjectReference Include="..\Weather.BusinessLogic\Weather.BusinessLogic.csproj" />
   </ItemGroup>
 
